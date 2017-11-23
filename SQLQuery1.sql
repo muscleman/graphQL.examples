@@ -1,0 +1,2 @@
+﻿--TRUNCATE TABLE Users;
+TRUNCATE TABLE Accounts;
